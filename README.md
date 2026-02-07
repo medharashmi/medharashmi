@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Medha Rashmi
 ---
 
-### 🚀 Data Analyst | Specialist in Business Strategy & Explainable AI (XAI)
+### Data Analyst | Specialist in Business Strategy & Explainable AI (XAI)
 
 I am a results-driven Data Analyst with an **MS in Data Analytics**. I specialize in bridging the gap between complex technical modeling and human-centric business strategy. My focus lies in creating high-performance predictive systems that are not only accurate but ethically sound and transparent.
 
 ---
-### 🛠️ Core Competencies
+### Core Competencies
 
 | **Domain** | **Tools & Skills** |
 | :--- | :--- |
@@ -16,7 +16,7 @@ I am a results-driven Data Analyst with an **MS in Data Analytics**. I specializ
 | **Focus Areas** | Ethical AI Frameworks, Business Intelligence, Data Storytelling |
 
 ---
-### 🌱 Beyond the Data
+### Beyond the Data
 
 I believe that the best analysts are those who stay connected to the world around them. When I’m not deep in a SQL query or interpreting SHAP values, you can find me:
 
